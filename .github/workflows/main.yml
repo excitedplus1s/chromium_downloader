@@ -22,7 +22,7 @@ jobs:
       run: |
         python fetchall.py > docs/README.md
         
-    - name: push to origin master
+    - name: push to origin main
       run: |
         echo start push
         git config --global user.name "excitedplus1s"
