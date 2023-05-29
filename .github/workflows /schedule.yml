@@ -1,4 +1,4 @@
-ame: Daily Chromium-Fetching
+name: Daily Chromium-Fetching
 
 on:
   schedule:
