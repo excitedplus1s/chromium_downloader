@@ -1,0 +1,38 @@
+ame: Daily Chromium-Fetching
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run Scraper
+      run: |
+        python fetchall.py > docs/README.md
+        
+    - name: push to origin master
+      run: |
+        echo start push
+        git config --global user.name "excitedplus1s"
+        git config --global user.email "contact@msfconsole.cn"
+        
+        git add -A
+        git commit -m $(date '+%Y-%m-%d')
+        git push
