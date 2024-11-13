@@ -1,7 +1,13 @@
-# Update Time: 2024-11-12 02:48:11.068311
+# Update Time: 2024-11-13 02:50:49.284569
 
 
 # Download
+
+
+[132.0.6830.0](https://storage.googleapis.com/chromium-browser-official/chromium-132.0.6830.0.tar.xz)
+
+
+[132.0.6828.0](https://storage.googleapis.com/chromium-browser-official/chromium-132.0.6828.0.tar.xz)
 
 
 [132.0.6827.0](https://storage.googleapis.com/chromium-browser-official/chromium-132.0.6827.0.tar.xz)
@@ -11464,6 +11470,9 @@
 [99.0.4760.0](https://storage.googleapis.com/chromium-browser-official/chromium-99.0.4760.0.tar.xz)
 
 
+[99.0.4760.0](https://storage.googleapis.com/chromium-browser-official/chromium-99.0.4760.0.tar.xz)
+
+
 [99.0.4759.0](https://storage.googleapis.com/chromium-browser-official/chromium-99.0.4759.0.tar.xz)
 
 
@@ -12209,6 +12218,9 @@
 
 
 [96.0.4656.0](https://storage.googleapis.com/chromium-browser-official/chromium-96.0.4656.0.tar.xz)
+
+
+[96.0.4655.7](https://storage.googleapis.com/chromium-browser-official/chromium-96.0.4655.7.tar.xz)
 
 
 [96.0.4655.7](https://storage.googleapis.com/chromium-browser-official/chromium-96.0.4655.7.tar.xz)
@@ -15961,9 +15973,6 @@
 [84.0.4131.5](https://storage.googleapis.com/chromium-browser-official/chromium-84.0.4131.5.tar.xz)
 
 
-[84.0.4131.5](https://storage.googleapis.com/chromium-browser-official/chromium-84.0.4131.5.tar.xz)
-
-
 [84.0.4131.0](https://storage.googleapis.com/chromium-browser-official/chromium-84.0.4131.0.tar.xz)
 
 
@@ -16712,6 +16721,9 @@
 
 
 [81.0.4040.3](https://storage.googleapis.com/chromium-browser-official/chromium-81.0.4040.3.tar.xz)
+
+
+[81.0.4040.2](https://storage.googleapis.com/chromium-browser-official/chromium-81.0.4040.2.tar.xz)
 
 
 [81.0.4040.2](https://storage.googleapis.com/chromium-browser-official/chromium-81.0.4040.2.tar.xz)
@@ -18961,9 +18973,6 @@
 [74.0.3708.0](https://storage.googleapis.com/chromium-browser-official/chromium-74.0.3708.0.tar.xz)
 
 
-[74.0.3708.0](https://storage.googleapis.com/chromium-browser-official/chromium-74.0.3708.0.tar.xz)
-
-
 [74.0.3706.0](https://storage.googleapis.com/chromium-browser-official/chromium-74.0.3706.0.tar.xz)
 
 
@@ -19334,9 +19343,6 @@
 
 
 [73.0.3637.0](https://storage.googleapis.com/chromium-browser-official/chromium-73.0.3637.0.tar.xz)
-
-
-[73.0.3636.2](https://storage.googleapis.com/chromium-browser-official/chromium-73.0.3636.2.tar.xz)
 
 
 [73.0.3636.2](https://storage.googleapis.com/chromium-browser-official/chromium-73.0.3636.2.tar.xz)
@@ -20090,6 +20096,9 @@
 
 
 [70.0.3525.0](https://storage.googleapis.com/chromium-browser-official/chromium-70.0.3525.0.tar.xz)
+
+
+[70.0.3524.4](https://storage.googleapis.com/chromium-browser-official/chromium-70.0.3524.4.tar.xz)
 
 
 [70.0.3524.4](https://storage.googleapis.com/chromium-browser-official/chromium-70.0.3524.4.tar.xz)
@@ -23177,6 +23186,9 @@
 
 
 [49.0.2623.95](https://storage.googleapis.com/chromium-browser-official/chromium-49.0.2623.95.tar.xz)
+
+
+[49.0.2623.91](https://storage.googleapis.com/chromium-browser-official/chromium-49.0.2623.91.tar.xz)
 
 
 [49.0.2623.91](https://storage.googleapis.com/chromium-browser-official/chromium-49.0.2623.91.tar.xz)
@@ -26926,6 +26938,9 @@
 [36.0.1950.0](https://storage.googleapis.com/chromium-browser-official/chromium-36.0.1950.0.tar.xz)
 
 
+[36.0.1950.0](https://storage.googleapis.com/chromium-browser-official/chromium-36.0.1950.0.tar.xz)
+
+
 [36.0.1949.2](https://storage.googleapis.com/chromium-browser-official/chromium-36.0.1949.2.tar.xz)
 
 
@@ -27913,6 +27928,9 @@
 [33.0.1738.0](https://storage.googleapis.com/chromium-browser-official/chromium-33.0.1738.0.tar.xz)
 
 
+[33.0.1738.0](https://storage.googleapis.com/chromium-browser-official/chromium-33.0.1738.0.tar.xz)
+
+
 [33.0.1737.0](https://storage.googleapis.com/chromium-browser-official/chromium-33.0.1737.0.tar.xz)
 
 
@@ -28891,9 +28909,6 @@
 [30.0.1599.50](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.50.tar.xz)
 
 
-[30.0.1599.50](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.50.tar.xz)
-
-
 [30.0.1599.49](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.49.tar.xz)
 
 
@@ -28901,6 +28916,9 @@
 
 
 [30.0.1599.47](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.47.tar.xz)
+
+
+[30.0.1599.44](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.44.tar.xz)
 
 
 [30.0.1599.44](https://storage.googleapis.com/chromium-browser-official/chromium-30.0.1599.44.tar.xz)
@@ -29948,6 +29966,9 @@
 
 
 [28.0.1500.31](https://storage.googleapis.com/chromium-browser-official/chromium-28.0.1500.31.tar.xz)
+
+
+[28.0.1500.29](https://storage.googleapis.com/chromium-browser-official/chromium-28.0.1500.29.tar.xz)
 
 
 [28.0.1500.29](https://storage.googleapis.com/chromium-browser-official/chromium-28.0.1500.29.tar.xz)
@@ -31075,9 +31096,6 @@
 [26.0.1410.32](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.32.tar.xz)
 
 
-[26.0.1410.32](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.32.tar.xz)
-
-
 [26.0.1410.31](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.31.tar.xz)
 
 
@@ -31085,6 +31103,9 @@
 
 
 [26.0.1410.29](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.29.tar.xz)
+
+
+[26.0.1410.28](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.28.tar.xz)
 
 
 [26.0.1410.28](https://storage.googleapis.com/chromium-browser-official/chromium-26.0.1410.28.tar.xz)
